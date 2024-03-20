@@ -8,7 +8,7 @@
 
 * Entendendo Algoritmos - Um Guia Ilustrado Para Programadores e Outros Curiosos - Autor (Aditya Y. Bhargava)
 
-*  Expressões Regulares - uma abordagem divertida - Autor (Aurelio Marinho)
+* Expressões Regulares - uma abordagem divertida - Autor (Aurelio Marinho)
 
 * Introdução a data science - Algoritmos de machine learning e métodos de análise - Autor (Casa do Código)
 
